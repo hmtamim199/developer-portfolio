@@ -40,3 +40,13 @@ a {
 .half {
   width: 50%;
 }
+
+.container3 {
+  display: flex;
+ 
+}
+
+.half2 {
+  width: 50%;
+  border-left: 3px solid gold;
+}
